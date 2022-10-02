@@ -1,4 +1,4 @@
-# Desafio 01 do Stage 02 _ Explorer
+# Desafio 01 - Stage 02
 
 ![preview](./.github/preview.png)
 
